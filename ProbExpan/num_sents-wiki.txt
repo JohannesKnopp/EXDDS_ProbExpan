@@ -1,0 +1,1489 @@
+33288
+
+0	b'$'	4
+1	b"''"	3
+2	b'1900 Summer Olympics'	2
+3	b'1912 Summer Olympics'	4
+4	b'1925'	2
+5	b'1932 Summer Olympics'	2
+6	b'1950 general election'	2
+7	b'1962 elections'	2
+8	b'1976 Summer Olympics'	2
+9	b'1984 Summer Olympics'	2
+10	b'1988'	2
+11	b'1990'	2
+12	b'1992 Summer Olympics'	2
+13	b'1994'	4
+14	b'1996'	4
+15	b'2001 : A Space Odyssey'	2
+16	b'2003'	2
+17	b'2004'	2
+18	b'2004 Summer Olympics'	2
+19	b'2006'	3
+20	b'2006 Winter Olympics'	3
+21	b'2007-08 season'	2
+22	b'2008 summer Olympics'	2
+23	b"2010-11 NCAA Division I men 's basketball season"	2
+24	b'A1 motorway'	2
+25	b'ABC'	6
+26	b'AC/DC'	2
+27	b'AHL'	2
+28	b'Ajax'	3
+29	b'Amtrak'	3
+30	b'Aberdeen'	2
+31	b'Aberdeenshire'	3
+32	b'Abraham Lincoln'	2
+33	b'Abruzzo'	2
+34	b'academics'	2
+35	b'Academy awards'	4
+36	b'Adelaide'	4
+37	b'Adele'	2
+38	b'Adobe Systems'	2
+39	b'Adolf Hitlers'	3
+40	b'Adriatic'	2
+41	b'advertising'	2
+42	b'Afghanistan'	2
+43	b'Africa'	14
+44	b'African Americans'	3
+45	b'African-Americans'	2
+46	b'Ajaccio'	2
+47	b'Al Franken'	2
+48	b'Alabama'	2
+49	b'Alaska'	8
+50	b'Albania'	3
+51	b'Alberta'	4
+52	b'Alexandria'	4
+53	b'Algeria'	4
+54	b'All-Star'	2
+55	b'Allmusic'	2
+56	b'aluminium'	2
+57	b'ambassador'	4
+58	b'Americas'	4
+59	b'american'	37
+60	b'American Civil War'	13
+61	b'American Football League'	2
+62	b'American Hockey League'	3
+63	b'American League'	4
+64	b'American Museum of Natural History'	2
+65	b'American Revolutionary war'	2
+66	b'Amish'	2
+67	b'Amsterdam'	4
+68	b'Anabaptists'	2
+69	b'ancient Egypt'	2
+70	b'Andalusia'	2
+71	b'Andhra pradesh'	3
+72	b'Anglicans'	4
+73	b'Angola'	3
+74	b'Anjelica Huston'	2
+75	b'Antarctica'	4
+76	b'Aquitaine'	2
+77	b'Arabic'	4
+78	b'Arbroath'	2
+79	b'areas'	6
+80	b'Arena Football League'	2
+81	b'Argentina'	11
+82	b'argentine'	3
+83	b'Arizona'	3
+84	b'Arkansas'	2
+85	b'armed forces'	2
+86	b'Armenia'	4
+87	b'Arnhem'	3
+88	b'Arsenal'	3
+89	b'arthritis'	2
+90	b'Arthur Conan Doyle'	3
+91	b'Arturo Toscanini'	2
+92	b'Arunachal Pradesh'	2
+93	b'Asia'	5
+94	b'Asians'	2
+95	b'Associated Press'	2
+96	b'asthma'	2
+97	b'Asturias'	4
+98	b'Athens'	2
+99	b'Athens , Greece'	4
+100	b'Atlantas'	2
+101	b'Atlanta , Georgia'	4
+102	b'Atlantics'	2
+103	b'Atlantic Coast Conference'	3
+104	b'attorney general'	2
+105	b'Aucklands'	3
+106	b'Augsburg'	2
+107	b'Austin , Texas'	3
+108	b'Australasia'	2
+109	b'Australia'	36
+110	b'Austria'	13
+111	b'Austria-Hungary'	2
+112	b'Austrians'	2
+113	b'author'	6
+114	b'Azerbaijan'	8
+115	b'B.A.'	3
+116	b'BBC'	9
+117	b'BBC One'	2
+118	b'BOAC'	2
+119	b'Baal'	2
+120	b'backing vocalist'	2
+121	b'Baden'	2
+122	b'Baghdad'	5
+123	b'Bahamas'	2
+124	b'Baja California'	2
+125	b'Balkans'	5
+126	b'Baltic sea'	3
+127	b'Baltimore'	3
+128	b'Baltimore , Maryland'	2
+129	b'Bangladesh'	3
+130	b'Baptists'	2
+131	b'Barack Obama'	4
+132	b'Barbados'	2
+133	b'Barcelona'	2
+134	b'Barents Sea'	2
+135	b'Barnsley'	2
+136	b'Basque country'	2
+137	b'bass guitar'	3
+138	b'Basse-Normandie'	2
+139	b'bassist'	2
+140	b'Battle of Jutland'	2
+141	b'Bedford'	2
+142	b'Beethoven'	2
+143	b'Beijing'	2
+144	b'Beirut'	2
+145	b'Belarus'	3
+146	b'Belfast'	3
+147	b'Belgians'	3
+148	b'Belgium'	16
+149	b'Belgrade'	2
+150	b'bells'	2
+151	b'Belmont Stakes'	2
+152	b'Bengals'	2
+153	b'Benito Mussolini'	2
+154	b'Benjamin Franklin'	2
+155	b'Berkshires'	2
+156	b'Berlin'	9
+157	b'Berlin State Opera'	2
+158	b'Bermuda'	2
+159	b'Bhutan'	2
+160	b'bible'	4
+161	b'Bikini Atoll'	3
+162	b'Bill Clinton'	2
+163	b'Billboard 200'	3
+164	b'Binghamton , New York'	2
+165	b'Birmingham'	4
+166	b'bishops'	6
+167	b'blacks'	2
+168	b'blue'	2
+169	b'Blundell Park'	2
+170	b'Bob Dylan'	3
+171	b'Bogota'	3
+172	b'Bohemia'	2
+173	b'Bolivia'	2
+174	b'bolshevik'	3
+175	b'Bolton Wanderers'	2
+176	b'Bono'	2
+177	b'Book of Job'	2
+178	b'Borneo'	3
+179	b'Bosnia and Herzegovina'	4
+180	b'Boston'	4
+181	b'Boston , Massachusetts'	2
+182	b'Boston Red Sox'	2
+183	b'Botswana'	2
+184	b'Boulgou Province'	2
+185	b'Boulogne-sur-Mer'	2
+186	b'Bowling Green State University'	2
+187	b'brain'	3
+188	b'Brandenburg'	2
+189	b'Brandon'	2
+190	b'Brasilia'	2
+191	b'Brazil'	15
+192	b'Brian Cowen'	2
+193	b'brigade'	2
+194	b'brigadier general'	2
+195	b'Brigham Young University'	2
+196	b'Brisbane'	3
+197	b'Bristol'	6
+198	b'British'	19
+199	b'British Columbia'	6
+200	b'British expeditionary force'	2
+201	b'British Isles'	3
+202	b'British raj'	2
+203	b'British Somaliland'	2
+204	b'Brittany'	2
+205	b'Brixton'	2
+206	b'Broadway'	5
+207	b'Brooklyn , New York'	2
+208	b'Brooklyn Museum'	2
+209	b'Brunei'	2
+210	b'Brussels'	4
+211	b'Buccinidae'	3
+212	b'Bucharest'	4
+213	b'Buffalo Bills'	2
+214	b'Bulgaria'	5
+215	b'Burkina Faso'	3
+216	b'Burma'	3
+217	b'Burt Reynolds'	2
+218	b'Byzantines'	4
+219	b'CBS'	7
+220	b'CdS'	2
+221	b'cabinets'	2
+222	b'Caerphilly'	2
+223	b'Cairns'	2
+224	b'Cairo'	3
+225	b'Calabria'	2
+226	b'Calgary'	3
+227	b'California'	39
+228	b'Caliphs'	2
+229	b'Cambodia'	3
+230	b'Cambridge University'	2
+231	b'Canada'	41
+232	b'Canada Council for the Arts'	2
+233	b'Canadians'	15
+234	b'Canadian Football League'	3
+235	b'Canadian House of Commons'	6
+236	b'Canadian National Railways'	3
+237	b'Canary islands'	2
+238	b'cancer'	4
+239	b'Cannonball Adderley'	2
+240	b'canoe'	2
+241	b'Cape Town'	2
+242	b'captains'	5
+243	b'Cardiff'	2
+244	b'Caribbean'	2
+245	b'Carl Jung'	2
+246	b'Carmarthenshire'	2
+247	b'cartoonist'	2
+248	b'Castile'	2
+249	b'Catalonia'	3
+250	b'Catanzaro'	2
+251	b'cathedral'	2
+252	b'catholic'	2
+253	b'Catholic Church'	3
+254	b'Caucasus'	3
+255	b'celebrity'	2
+256	b'Celtics'	3
+257	b'central'	3
+258	b'Central Asia'	2
+259	b'Central Europe'	2
+260	b'Ceylon'	3
+261	b'Challenge Cup'	3
+262	b'Champions league'	2
+263	b'championships'	3
+264	b'Channel 4'	2
+265	b'Channel islands'	2
+266	b'Chelsea'	3
+267	b'Chesterfield'	2
+268	b'Chicago'	4
+269	b'Chicago , Illinois'	2
+270	b'Chicago Bulls'	3
+271	b'Chicago Cubs'	2
+272	b'Chicago White Sox'	3
+273	b'chief executive officer'	2
+274	b'chile'	6
+275	b'China'	17
+276	b'Chinatown'	2
+277	b'chinese'	7
+278	b'Chitty Chitty Bang Bang'	2
+279	b'Christians'	6
+280	b'Christianity'	5
+281	b'Christmas'	2
+282	b'Church of England'	3
+283	b'Cincinnati , Ohio'	2
+284	b'Cincinnati Reds'	2
+285	b'civil wars'	3
+286	b'Cleveland Browns'	3
+287	b'Cleveland Indians'	3
+288	b'cocaine'	2
+289	b'coffee'	3
+290	b'Colchester'	2
+291	b'Coleraine'	2
+292	b'Cologne'	2
+293	b'Colombia'	6
+294	b'colonels'	5
+295	b'color commentator'	2
+296	b'Colorados'	8
+297	b'Colorado State University'	2
+298	b'Colosseum'	2
+299	b'comic books'	3
+300	b'commonwealth'	2
+301	b'computer science'	2
+302	b'Conference South'	2
+303	b'Confucius'	2
+304	b'congress'	2
+305	b'Conidae'	7
+306	b'Connecticut'	4
+307	b'conservatives'	3
+308	b'Conservative party'	2
+309	b'conspiracy'	2
+310	b'Constantinople'	2
+311	b'construction'	2
+312	b'Continental Army'	2
+313	b'Copenhagen'	3
+314	b'copper'	4
+315	b'Cordoba Province'	2
+316	b'Corfu'	2
+317	b'Cork'	3
+318	b'Cornell University'	2
+319	b'Cornwall'	6
+320	b'Costa Rica'	2
+321	b'councils of state'	2
+322	b'County Dublin'	2
+323	b'Coventry City'	3
+324	b'crayfish'	2
+325	b'Crete'	4
+326	b'crickets'	2
+327	b'Crime and Punishment'	2
+328	b'Crimea'	3
+329	b'Croatia'	5
+330	b'Croatians'	2
+331	b'Cuba'	6
+332	b'Cumbria'	5
+333	b'Cygnus'	2
+334	b'Cyprus'	4
+335	b'Czechs'	2
+336	b'Czech Republic'	4
+337	b'Czechoslovakia'	2
+338	b'DC Comics'	5
+339	b'DNA'	3
+340	b'drums'	2
+341	b'DSc'	3
+342	b'DSO'	2
+343	b'Dail Eireann'	2
+344	b'Dakota Territory'	2
+345	b'Dallara'	2
+346	b'Dallas'	2
+347	b'Dallas Burn'	2
+348	b'Dallas Cowboys'	3
+349	b'Damascus'	3
+350	b'danish'	4
+351	b'Danzig'	2
+352	b'Darwin'	2
+353	b'David'	2
+354	b'David Beckham'	2
+355	b'deans'	3
+356	b'Democrats'	3
+357	b'Democratic party'	2
+358	b'Denmark'	7
+359	b'Denver'	2
+360	b'Denver Broncos'	2
+361	b'Denver Nuggets'	2
+362	b'Department of Defense'	3
+363	b'depressions'	2
+364	b'Derbyshire'	2
+365	b'Detroit'	4
+366	b'Detroit Lions'	3
+367	b'Devo'	2
+368	b'Diana Ross'	2
+369	b'directors'	3
+370	b'Disney Channel'	2
+371	b'Division II'	2
+372	b'Doctor Who'	3
+373	b'doctorate'	2
+374	b'dollars'	2
+375	b'Donovan'	2
+376	b'Dorchester'	2
+377	b'Doubs'	2
+378	b'downtown'	2
+379	b'Dresden'	2
+380	b'Drilliidae'	3
+381	b'Dropkick Murphys'	3
+382	b'drummer'	5
+383	b'Dubai'	2
+384	b'Dublin'	6
+385	b'Duke Ellington'	2
+386	b'Duke University'	2
+387	b'Dundee United'	2
+388	b'Dunkirk'	2
+389	b'Duran Duran'	2
+390	b'Durham'	2
+391	b'Dutchess'	6
+392	b'Dutch East Indies'	3
+393	b'Dutch West India Company'	2
+394	b'E. W. Elst'	3
+395	b'EMI'	2
+396	b'ERS'	2
+397	b'ESPN'	4
+398	b'Eu'	2
+399	b'Earth'	3
+400	b"Earth 's"	2
+401	b'East Prussia'	3
+402	b'eBay'	2
+403	b'economics'	5
+404	b'Ecuador'	3
+405	b'Edinburgh'	4
+406	b'Edmonton'	3
+407	b'Edward the Confessor'	3
+408	b'Egypt'	10
+409	b'El Salvador'	3
+410	b'Elton John'	4
+411	b'Elvis Presley'	3
+412	b'Emmerdale'	2
+413	b'engineering'	2
+414	b'England'	69
+415	b'english'	35
+416	b'English channel'	3
+417	b'English civil war'	4
+418	b'English language'	2
+419	b'entrepreneurs'	3
+420	b'Essex'	4
+421	b'Estonia'	2
+422	b'Ethiopia'	6
+423	b"Eugene O'Neill"	2
+424	b'Eurasia'	2
+425	b'Europe'	16
+426	b'European Southern Observatory'	3
+427	b'European Union'	5
+428	b'Evanston , Illinois'	2
+429	b'Everton'	3
+430	b'Exeter City'	2
+431	b'FA cup'	4
+432	b'FIFA'	2
+433	b'first'	2
+434	b'fish'	4
+435	b'Forth'	2
+436	b'foxes'	2
+437	b'Franklin D. Roosevelt'	5
+438	b'Fairbanks'	2
+439	b'Falklands war'	2
+440	b'Fallout 3'	2
+441	b'Federal Emergency Management Agency'	2
+442	b'Federal League'	2
+443	b'Fellow of the Royal Society'	2
+444	b'Ferrari'	2
+445	b'Filipinos'	3
+446	b'films'	9
+447	b'finance'	2
+448	b'Finland'	8
+449	b'Finnish'	4
+450	b'Finsbury Park'	2
+451	b'Fiume'	2
+452	b'Florence'	6
+453	b'Florida'	12
+454	b'Florida Gators football'	2
+455	b'Florida Keys'	2
+456	b'football league'	5
+457	b'Foreigner'	2
+458	b'Formula One'	4
+459	b'Fort Worth'	3
+460	b'forwards'	3
+461	b'Frances'	52
+462	b'Franche-Comte'	4
+463	b'Francis I'	2
+464	b'Franciscans'	3
+465	b'Frank Sinatra'	2
+466	b'french'	15
+467	b'French Open'	2
+468	b'Friedrich Schiller'	2
+469	b'Fulham'	2
+470	b'GMS'	2
+471	b'gold'	6
+472	b'Gaelic Athletic Association'	3
+473	b'Galilee'	2
+474	b'Galway'	2
+475	b'Game Boy Advance'	2
+476	b'Gamla stan'	2
+477	b'Gandhi'	2
+478	b'Ganges'	2
+479	b'Gaul'	4
+480	b'Gaza'	3
+481	b'General Electric'	3
+482	b'Geneva'	2
+483	b'George H. W. Bush'	2
+484	b'George Orwell'	2
+485	b'George W. Bush'	2
+486	b'Georgia'	6
+487	b'german'	19
+488	b'German Bundesliga'	3
+489	b'germany'	40
+490	b'Gibraltar'	3
+491	b'Glasgow'	2
+492	b'Gloucestershire'	3
+493	b'Goa'	2
+494	b'gods'	2
+495	b'Gold Coast'	2
+496	b'Gordon Ramsay'	2
+497	b'Government of India'	2
+498	b'governors'	2
+499	b'governor-general'	2
+500	b'Grammy awards'	2
+501	b'Great Britain'	8
+502	b'great depression'	5
+503	b'Great lakes'	2
+504	b'Great Western Railway'	2
+505	b'Greater London'	2
+506	b'Greater Manchester'	4
+507	b'Greater Poland Voivodeship'	3
+508	b'Greece'	9
+509	b'greek'	9
+510	b'Green Bay Packers'	3
+511	b'Green Day'	2
+512	b'Green party'	3
+513	b'Greenlands'	6
+514	b'Grenoble'	2
+515	b'Grosseto'	2
+516	b'grouping'	3
+517	b'Guadalcanal'	2
+518	b'Guangxi'	2
+519	b'Guangzhou'	2
+520	b'Guatemala'	3
+521	b'Guernsey'	2
+522	b'Guinness Premiership'	2
+523	b'guitars'	5
+524	b'guitarist'	8
+525	b'Guizhou'	2
+526	b'Gujarat'	2
+527	b'Gulf of Mexico'	3
+528	b'Guyanas'	2
+529	b'Hawks'	2
+530	b'HBO'	3
+531	b'horses'	2
+532	b'Haarlem'	4
+533	b'Haifa'	2
+534	b'Hainan'	2
+535	b'Haiti'	3
+536	b'Halifaxes'	5
+537	b'hall of famer'	2
+538	b'Halle'	3
+539	b'Halloween'	3
+540	b'Hamburg'	2
+541	b'Hamilton Tiger-Cats'	3
+542	b'Hamptons'	2
+543	b'Hanko'	2
+544	b'Hannover 96'	2
+545	b'Harrisburg'	2
+546	b'Hartford'	2
+547	b'Harvard University'	10
+548	b'Haryana'	2
+549	b'Haute-Normandie'	2
+550	b'hearts'	3
+551	b'Hebrews'	2
+552	b'Heerenveen'	2
+553	b'Heerlen'	2
+554	b'Helsinki'	2
+555	b'Henry Clay'	2
+556	b'Hereford'	2
+557	b'Herefordshire'	2
+558	b'Hertfordshire'	4
+559	b'highlands'	2
+560	b'Hindi'	4
+561	b'hindu'	2
+562	b'Hiroshima'	2
+563	b'Hitchin'	2
+564	b'Hobart'	2
+565	b'Hockey Hall of Fame'	2
+566	b'Hollywoods'	7
+567	b'Holy Roman emperor'	2
+568	b'Holy Roman Empire'	3
+569	b'Homer'	2
+570	b'Honda'	2
+571	b'Hong Kong'	9
+572	b'Hong Kong island'	2
+573	b'Honolulu'	2
+574	b'Horace'	2
+575	b'Hot Country Songs'	3
+576	b'Hot Springs'	2
+577	b'House of Lords'	4
+578	b'Houses of Commons'	6
+579	b'House of Representatives'	2
+580	b'Houston Astros'	3
+581	b'Houston Oilers'	2
+582	b'human rights'	2
+583	b'Hungarians'	5
+584	b'Hungary'	5
+585	b'Hurricane Katrina'	2
+586	b'Hyderabad'	2
+587	b'hydrogen'	2
+588	b'Ine'	5
+589	b'Italy'	23
+590	b'ITV'	3
+591	b'IUCN red list'	2
+592	b'Iberian peninsula'	2
+593	b'Iceland'	4
+594	b'Icelandic'	2
+595	b'Illawarra Steelers'	2
+596	b'Illinois'	7
+597	b'Imperial County'	2
+598	b'India'	48
+599	b'indians'	3
+600	b'Indian National Congress'	2
+601	b'Indian ocean'	3
+602	b'Indian state'	3
+603	b'Indiana'	4
+604	b'Indianapolis'	2
+605	b'Indianapolis Colts'	2
+606	b'Indonesia'	7
+607	b'infantry'	3
+608	b'inflammation'	2
+609	b'Inner Carniola'	2
+610	b'Innsbruck'	2
+611	b'International space station'	3
+612	b'Internazionale'	2
+613	b'Internet'	2
+614	b'Iran'	6
+615	b'Iran national football team'	2
+616	b'Iraq'	10
+617	b'Iraq war'	3
+618	b'Iraqi Kurdistan'	2
+619	b'Ireland'	17
+620	b'Irish'	8
+621	b'Irish Sea'	2
+622	b'iron'	3
+623	b'Islam'	4
+624	b'Isle of man'	3
+625	b'Isle of Wight'	2
+626	b'Israel'	3
+627	b'Istanbul'	2
+628	b'Italians'	25
+629	b'Jacques Derrida'	2
+630	b'James Anderson'	2
+631	b'James Bond'	4
+632	b'James Buchanan'	2
+633	b'James Dean'	2
+634	b'James Earl Jones'	2
+635	b'James Taylor'	2
+636	b'Japan'	22
+637	b'Japanese'	4
+638	b'java'	4
+639	b'Jersey'	2
+640	b'Jerusalem'	4
+641	b'jesuit'	3
+642	b'Jewish'	3
+643	b'Jimi Hendrix'	2
+644	b'Jimmy Page'	2
+645	b'Jodie Foster'	2
+646	b'Joe Cocker'	2
+647	b'Joe Torre'	2
+648	b'Johannesburg'	2
+649	b'John Adams'	2
+650	b'John F. Kennedy'	3
+651	b'John Marshall'	3
+652	b'John Steinbeck'	2
+653	b'journalist'	8
+654	b'Judaism'	3
+655	b'judge'	2
+656	b'Julius Caesar'	3
+657	b'Kandahar'	2
+658	b'Kansas'	3
+659	b'Kansas City , Missouri'	2
+660	b'Kansas City Chiefs'	2
+661	b'Kansas City Royals'	3
+662	b'Kansas Jayhawks'	3
+663	b'Karnataka'	3
+664	b'Kassel'	3
+665	b'Kazakhstan'	3
+666	b'Kent'	6
+667	b'Kentucky'	5
+668	b'Kentucky derby'	3
+669	b'Kenya'	5
+670	b'Kerala'	2
+671	b'Kielce'	4
+672	b'King Arthur'	2
+673	b'King James version'	2
+674	b'Kingdom of England'	2
+675	b'Kingdom of Valencia'	2
+676	b'Kingston'	4
+677	b'Kitami'	2
+678	b'Kolkata'	2
+679	b'Kontinental Hockey League'	2
+680	b'Korea'	7
+681	b'Korean War'	5
+682	b'Kosovo'	2
+683	b'Koszalin County'	2
+684	b'Krakow'	4
+685	b'Kuala Lumpur'	3
+686	b'Kumasi'	2
+687	b'Kutno County'	2
+688	b'Kuyavian-Pomeranian Voivodeship'	4
+689	b'Kyoto'	3
+690	b'laws'	5
+691	b'Life magazine'	2
+692	b'lost'	2
+693	b'labor'	3
+694	b'Labour party'	2
+695	b'Lahore'	2
+696	b'Lake Geneva'	2
+697	b'Lancashire'	8
+698	b'Laos'	3
+699	b'Las Vegas , Nevada'	2
+700	b'Latins'	9
+701	b'Latin America'	4
+702	b'Latvia'	4
+703	b'Lausanne'	3
+704	b'Lazio'	2
+705	b'Le Havre'	2
+706	b'League Two'	2
+707	b'League of Ireland'	2
+708	b'League of Nations'	3
+709	b'Lebaneses'	3
+710	b'Lebanon'	3
+711	b'Led Zeppelin'	4
+712	b'Leeds'	2
+713	b'Legislative Assembly of Alberta'	2
+714	b'Leningrad'	2
+715	b'Leyton Orient'	2
+716	b'Liaoning'	3
+717	b'liberals'	3
+718	b'Ligue 1'	2
+719	b"Lincoln 's Inn"	2
+720	b'Lincolnshire'	2
+721	b'Linfield'	2
+722	b'Lisbon'	3
+723	b'Lithuanians'	2
+724	b'Liverpool'	4
+725	b'Ljubljana'	2
+726	b'Lodz Voivodeship'	6
+727	b'Loire'	2
+728	b'Lombards'	2
+729	b'Lombardy'	4
+730	b'London'	25
+731	b'London , England'	2
+732	b'London Marathon'	2
+733	b'London and North Eastern Railway'	2
+734	b'London and South Western Railway'	2
+735	b'London-based'	2
+736	b"Long Day 's Journey into Night"	2
+737	b'Long Island'	6
+738	b"Lord 's"	2
+739	b'Lorraine'	2
+740	b'Los Angeles'	12
+741	b'Los Angeles , California'	5
+742	b'Los Angeles Dodgers'	2
+743	b'Los Angeles Times'	6
+744	b'lotus'	3
+745	b'Louisiana'	7
+746	b'Lower Manhattan'	2
+747	b'Lower Saxony'	3
+748	b'Lower Silesian Voivodeship'	4
+749	b'Lublin Voivodeship'	5
+750	b'Lubusz Voivodeship'	2
+751	b'Lucerne'	2
+752	b'Luftwaffes'	2
+753	b'Lugano'	2
+754	b'Luther Vandross'	2
+755	b'Luxembourg'	3
+756	b'M.A.'	2
+757	b'M.I.A.'	2
+758	b'Ma'	3
+759	b'MBAs'	4
+760	b'MCA records'	2
+761	b'Mecca'	2
+762	b'MLS'	2
+763	b'MPs'	3
+764	b'MSNBC'	2
+765	b'Mtv'	4
+766	b'Macedonia'	3
+767	b'Madagascar'	3
+768	b'Madhya Pradesh'	2
+769	b'Madonna'	5
+770	b'Maine'	4
+771	b'majors'	2
+772	b'major league baseball'	2
+773	b'Major League Soccer'	2
+774	b'Malawi'	2
+775	b'malaya'	2
+776	b'Malaysia'	5
+777	b'Mali'	2
+778	b'Malta'	3
+779	b'Manchester'	4
+780	b'Manchester United'	3
+781	b'Manila'	3
+782	b'Manitoba'	4
+783	b'Mar del Plata'	2
+784	b'Margaret Thatcher'	3
+785	b'Maroon 5'	3
+786	b'Marvel comics'	6
+787	b'Maryland'	9
+788	b'Marylebone Cricket Club'	2
+789	b'Masovian Voivodeship'	7
+790	b'Massachusetts'	11
+791	b'Max Roach'	2
+792	b'McGill University'	2
+793	b'Mediterranean'	2
+794	b'Melbourne'	4
+795	b'members of parliament'	7
+796	b'Members of the European Parliament'	2
+797	b'mercury'	4
+798	b'Mesopotamia'	3
+799	b'Methodist Episcopal church'	2
+800	b'metropolitan statistical area'	3
+801	b'Metz'	2
+802	b'Mexico'	17
+803	b'Mexico city'	3
+804	b'Miamis'	3
+805	b'Miami , Florida'	3
+806	b'Michigan'	6
+807	b'Michigan International Speedway'	2
+808	b'Mick Jagger'	2
+809	b'Microsoft'	3
+810	b'Microsoft windows'	2
+811	b'Middle ages'	4
+812	b'middle east'	4
+813	b'Middlesbrough'	3
+814	b'Middlesex'	2
+815	b'midfielder'	3
+816	b'Milan'	8
+817	b'Millonarios'	2
+818	b'Milton'	2
+819	b'Milwaukee'	3
+820	b'Minas Gerais'	2
+821	b'Minnesota'	9
+822	b'Minnesota North Stars'	2
+823	b'Minnesota Vikings'	2
+824	b'Minsk County'	2
+825	b'Mississippi'	6
+826	b'Mississippi river'	3
+827	b'Mississippi State University'	2
+828	b'Missouri'	6
+829	b'Monaco'	2
+830	b'monitors'	2
+831	b'monk'	2
+832	b'Monmouthshire'	2
+833	b'Montana'	4
+834	b'Montenegro'	3
+835	b'Monterrey'	2
+836	b'Monticello'	2
+837	b'Montreal'	10
+838	b'Morocco'	5
+839	b'Moscow'	8
+840	b'Mozambique'	2
+841	b'mughal'	3
+842	b'Mumbai'	3
+843	b'Munster'	2
+844	b'Muricidae'	3
+845	b'museum'	2
+846	b'Muttiah Muralitharan'	2
+847	b'myspace'	2
+848	b'Myanmar'	6
+849	b'M\xc3\xb8re og Romsdal'	2
+850	b'NASA'	2
+851	b'Nato'	8
+852	b'NBC'	4
+853	b'NCAA'	4
+854	b'NCAA tournament'	2
+855	b'NFL'	5
+856	b'Nis'	2
+857	b'NLCS'	2
+858	b'Namibia'	2
+859	b'Narmada'	2
+860	b'Nashville , Tennessee'	4
+861	b'national association'	2
+862	b'National Basketball Association'	2
+863	b'National Collegiate Athletic Association'	2
+864	b'National Football league'	11
+865	b'National Hockey League'	7
+866	b'national league'	5
+867	b'National party'	2
+868	b'National Register of Historic Places'	5
+869	b'National Trust'	3
+870	b'native Americans'	4
+871	b'Nauchnyj'	2
+872	b'Nautico'	2
+873	b'neighbours'	3
+874	b'Nepal'	8
+875	b'Nepalis'	2
+876	b'Netherlands'	10
+877	b'Neuquen Province'	2
+878	b'Nevada'	7
+879	b'New Democratic Party'	3
+880	b'New England'	3
+881	b'New England Patriots'	2
+882	b'New Guinea'	2
+883	b'New Hampshire'	2
+884	b'New Haven , Connecticut'	2
+885	b'New Jersey'	10
+886	b'New Mexico'	9
+887	b'New Orleans'	5
+888	b'New South Wales'	9
+889	b'New Yorks'	29
+890	b'New York city'	21
+891	b'New York Jets'	2
+892	b'New York state'	2
+893	b'New York Times'	4
+894	b'New York University'	4
+895	b'New York Yankees'	5
+896	b'New Zealand'	14
+897	b'New Zealand Geological Survey Antarctic Expedition'	2
+898	b'Newcastle'	3
+899	b'Newcastle United'	2
+900	b'Newport'	3
+901	b'Nigeria'	5
+902	b'Nikolay Davydenko'	2
+903	b'Niksic'	3
+904	b'Nintendo'	2
+905	b'Nintendo Gamecube'	2
+906	b'Niue'	2
+907	b'Norfolk'	4
+908	b'Normans'	2
+909	b'Norman conquest'	3
+910	b'Normandy'	2
+911	b'North Africa'	6
+912	b'North America'	16
+913	b'North Carolina'	3
+914	b'North Yorkshire'	6
+915	b'Northern Ireland'	9
+916	b'northwestern'	2
+917	b'Norway'	10
+918	b'Norwegians'	6
+919	b'Nottingham Forest'	2
+920	b'Nottinghamshire'	3
+921	b'Notts County'	4
+922	b'Nova Scotia'	6
+923	b'nuns'	2
+924	b'Obe'	2
+925	b'oaks'	2
+926	b'Oakham'	2
+927	b'Oakland'	2
+928	b'Oakland , California'	2
+929	b'obesity'	2
+930	b'Occitan'	2
+931	b'Oceania'	3
+932	b'October revolution'	2
+933	b'Ohio'	5
+934	b'Ohio river'	2
+935	b'Oklahoma'	5
+936	b'Oldham Athletic'	2
+937	b'Oligocene'	2
+938	b'Oliver !'	3
+939	b'Oliver Bulleid'	2
+940	b'Olsztyn'	2
+941	b'Olympic games'	2
+942	b'Oman'	2
+943	b'Ontario'	10
+944	b'Opole Voivodeship'	2
+945	b'Oregon'	2
+946	b'Orson Welles'	2
+947	b'Osaka'	2
+948	b'Oslo'	4
+949	b'Oswego'	2
+950	b'Ottawas'	2
+951	b'Ottomen'	6
+952	b'Ottoman empire'	6
+953	b'Oxfords'	3
+954	b'Oxford United'	2
+955	b'Oxford university'	4
+956	b'Oxfordshire'	3
+957	b'Ozzy Osbourne'	2
+958	b'PCs'	4
+959	b'Phd'	4
+960	b'Pacific'	2
+961	b'Pacific ocean'	4
+962	b'painters'	4
+963	b'Pakistan'	14
+964	b'Palermo'	3
+965	b'Palestine'	2
+966	b'Palmyra'	2
+967	b'Palomar'	2
+968	b'Pan Am Flight 103'	2
+969	b'Panama'	2
+970	b'Panama Canal'	2
+971	b'Panchkula district'	2
+972	b'Papua New Guinea'	3
+973	b'Paraguay'	3
+974	b'Paris'	22
+975	b'parliaments'	4
+976	b'Parliament of the United Kingdom'	3
+977	b'Pashtuns'	2
+978	b'pastor'	2
+979	b'Paul'	3
+980	b'Pennsylvania'	12
+981	b'Pennsylvania Railroad'	3
+982	b'Penzance'	2
+983	b'Perl'	2
+984	b'Perry'	2
+985	b'Persians'	4
+986	b'Perth'	3
+987	b'Peru'	6
+988	b'Peter Frampton'	2
+989	b'Peter IV of Aragon'	2
+990	b'Peterborough'	2
+991	b'petroleum'	2
+992	b'Ph.D.'	3
+993	b'Philadelphia'	8
+994	b'Philadelphia Phillies'	3
+995	b'Philippines'	11
+996	b'philosophy'	4
+997	b'Phoenix Cardinals'	2
+998	b'photography'	2
+999	b'physician'	5
+1000	b'PiHKAL ( Phenethylamines i Have Known And Loved )'	2
+1001	b'piano'	2
+1002	b'pilots'	2
+1003	b'Pink Floyd'	4
+1004	b'pitcher'	2
+1005	b'Pittsburgh'	2
+1006	b'Pittsburgh Steelers'	2
+1007	b'Playstation 2'	4
+1008	b'Playstation Portable'	2
+1009	b'Plymouths'	2
+1010	b'Plymouth Argyle'	2
+1011	b'Podlaskie Voivodeship'	7
+1012	b'Poland'	21
+1013	b'polish'	3
+1014	b'political science'	2
+1015	b'politician'	11
+1016	b'Pomeranian Voivodeship'	4
+1017	b'Pope Pius XII'	3
+1018	b'Portland , Oregon'	3
+1019	b'Porto Alegre'	4
+1020	b'Portugal'	6
+1021	b'portuguese'	2
+1022	b'Potomac river'	2
+1023	b'Poznan'	6
+1024	b'Prague'	6
+1025	b'prelate'	3
+1026	b'premier league'	2
+1027	b'presidents'	11
+1028	b'presidents of the United States'	2
+1029	b'Preston'	2
+1030	b'prime ministers'	9
+1031	b'princes'	3
+1032	b'Prince of Wales'	2
+1033	b'Princeton university'	4
+1034	b'producers'	2
+1035	b'professor'	4
+1036	b'Progressive Conservatives'	2
+1037	b'Protestants'	4
+1038	b'Providence , Rhode Island'	2
+1039	b'provinces'	2
+1040	b'public relations'	2
+1041	b'publishing'	2
+1042	b'Puerto Rico'	7
+1043	b'Punjab'	6
+1044	b'punjabi'	2
+1045	b'Pyrenees'	3
+1046	b'pythons'	2
+1047	b'QC'	3
+1048	b'Quebec'	9
+1049	b'Quebec Major Junior Hockey League'	2
+1050	b'queens'	4
+1051	b'Queen Elizabeth II'	2
+1052	b'Queen Mary'	2
+1053	b'Queen Maud Land'	2
+1054	b'Queen Victoria'	3
+1055	b'Queensland'	9
+1056	b'RIAA'	2
+1057	b'Radom County'	2
+1058	b'Rajasthan'	4
+1059	b'rangers'	4
+1060	b'Reading'	2
+1061	b'Real madrid'	2
+1062	b'Reebok'	2
+1063	b'reformation'	2
+1064	b'Reggio Calabria'	2
+1065	b'Rembrandt'	2
+1066	b'Renaissance'	4
+1067	b'Republic of Ireland'	2
+1068	b'republican'	6
+1069	b'research'	2
+1070	b'Rhine'	2
+1071	b'rhinoceroses'	2
+1072	b'Rhone'	2
+1073	b'Rhone-Alpes'	2
+1074	b'Richard Attenborough'	2
+1075	b'Richard Nixon'	3
+1076	b'Riddarholmen'	2
+1077	b'Rio Grande do Sul'	4
+1078	b'Rochester'	3
+1079	b'Rolling stone'	4
+1080	b'rom'	2
+1081	b'roman'	2
+1082	b'Romania'	6
+1083	b'Romanians'	2
+1084	b'Rome'	11
+1085	b'Ross Island'	2
+1086	b'Rotterdam'	2
+1087	b'Rouen'	3
+1088	b'Roy Rogers'	2
+1089	b'Royal Air Force'	2
+1090	b'Royal Artillery'	2
+1091	b'Royal Australian Air Force'	3
+1092	b'Royal Flying Corps'	2
+1093	b'Royal Institute of British Architects'	2
+1094	b'Royal Navy'	3
+1095	b'Russia'	21
+1096	b'Russians'	5
+1097	b'Russian empire'	2
+1098	b'Russian navy'	2
+1099	b'Rutgers University'	2
+1100	b'Ruth Bader Ginsburg'	2
+1101	b'Sega Saturn'	2
+1102	b'Sirius Satellite Radio'	2
+1103	b'Szczecin'	2
+1104	b'Sacramento'	2
+1105	b'Saint George'	2
+1106	b'Saint Petersburg'	4
+1107	b'Salem'	2
+1108	b'Salisbury'	2
+1109	b'Salvador Dali'	2
+1110	b'Salzburg'	4
+1111	b'Samoa'	2
+1112	b'Samos'	2
+1113	b'San Antonio'	2
+1114	b'San Diego'	5
+1115	b'San Diego , California'	2
+1116	b'San Diego Chargers'	2
+1117	b'San Diego Padres'	2
+1118	b'San Francisco'	6
+1119	b'San Francisco Chronicle'	2
+1120	b'San Francisco Giants'	5
+1121	b'Sanskrit'	4
+1122	b'Sao Paulo'	5
+1123	b'Sapporo'	2
+1124	b'Sardinia'	2
+1125	b'Saskatchewan'	6
+1126	b'Satan'	4
+1127	b'Saudi Arabia'	3
+1128	b'Saxony-Anhalt'	5
+1129	b'Scandinavia'	3
+1130	b'Scotland'	26
+1131	b'scottish'	8
+1132	b'Scottish Gaelic'	2
+1133	b'Scottish National Party'	3
+1134	b'Scottish Premier League'	2
+1135	b'screenwriter'	5
+1136	b'scrotum'	2
+1137	b'seasons'	2
+1138	b'Seattle'	3
+1139	b'Seattle Mariners'	2
+1140	b'Seattle Seahawks'	2
+1141	b'Second Boer War'	2
+1142	b'second world war'	7
+1143	b'Selangor'	2
+1144	b'Senegal'	4
+1145	b'Serbia'	7
+1146	b'Serie B'	2
+1147	b'Sezana'	2
+1148	b'Shabbat'	2
+1149	b'Shahrukh Khan'	2
+1150	b'Shanxi'	2
+1151	b'Sheffield'	2
+1152	b'Sheffield Wednesday'	2
+1153	b'Shetland'	2
+1154	b'Short Parliament'	4
+1155	b'Shropshire'	3
+1156	b'Siberia'	3
+1157	b'Sicily'	4
+1158	b'Sierra Leone'	2
+1159	b'Sierra Madre'	2
+1160	b'Sierra Nevadas'	3
+1161	b'Singapore'	9
+1162	b'singer-songwriter'	3
+1163	b'Sinhalese'	3
+1164	b'slovak'	3
+1165	b'Slovakia'	3
+1166	b'Slovenia'	10
+1167	b'Slovenians'	2
+1168	b'Socorro'	2
+1169	b'Sofia Region'	2
+1170	b'Sokolka County'	2
+1171	b'Somalia'	2
+1172	b'Sondrio'	2
+1173	b'Song dynasty'	2
+1174	b'songwriter'	2
+1175	b'Sonora'	2
+1176	b'Sony Music'	2
+1177	b'South Africa'	14
+1178	b'South America'	3
+1179	b'South Dakota'	2
+1180	b'South Island'	2
+1181	b'South Korea'	5
+1182	b'South Poles'	3
+1183	b'Southeast Asia'	4
+1184	b'Southampton'	3
+1185	b'Southern Illinois University'	2
+1186	b'Southern Ocean'	2
+1187	b'Southern Railway'	2
+1188	b'Soviets'	2
+1189	b'Soviet Union'	14
+1190	b'Spain'	23
+1191	b'spanish'	6
+1192	b'Spanish civil war'	4
+1193	b'Spanish-American war'	2
+1194	b'Spitfires'	2
+1195	b'splits'	3
+1196	b'Spongebob Squarepants'	3
+1197	b'Springfield'	2
+1198	b'Square Enix'	2
+1199	b'Sri Lanka'	2
+1200	b'St Albans City'	2
+1201	b'St Helens'	2
+1202	b'St. Albans'	2
+1203	b'St. Johnstone'	2
+1204	b'St. Louis , Missouri'	2
+1205	b'St. Louis Cardinals'	4
+1206	b'St. Petersburg'	2
+1207	b'Stanford University'	3
+1208	b'Star Trek'	2
+1209	b'Star Trek : Deep Space Nine'	2
+1210	b'Stargard County'	2
+1211	b'states'	2
+1212	b'Stevie Wonder'	2
+1213	b'Sting'	2
+1214	b'Stirling'	2
+1215	b'Stockholm'	6
+1216	b'Stoke'	2
+1217	b'Stoke City'	2
+1218	b'Stonewall Jackson'	2
+1219	b'Stratford-on-Avon'	2
+1220	b'strikers'	4
+1221	b'strokes'	2
+1222	b'Styria'	2
+1223	b'Sudan'	6
+1224	b'Sudbury'	2
+1225	b'Sufism'	2
+1226	b'sugar'	2
+1227	b'Sulla'	2
+1228	b'Sumatra'	2
+1229	b'summer Olympics'	3
+1230	b'sun'	2
+1231	b'Sundance film festival'	2
+1232	b'Sunderland'	3
+1233	b'Sunnis'	2
+1234	b'Super League'	3
+1235	b'Suriname'	2
+1236	b'Surrey'	2
+1237	b'Sussex'	2
+1238	b'Swami Vivekananda'	2
+1239	b'Sweden'	20
+1240	b'swedish'	6
+1241	b'Switzerland'	17
+1242	b'Syfy'	2
+1243	b'Sydney'	4
+1244	b'syndicated'	2
+1245	b'Syracuse'	3
+1246	b'Syria'	2
+1247	b'Syrians'	2
+1248	b'Szczytno County'	2
+1249	b'Times'	3
+1250	b'Togo'	3
+1251	b'taiga'	2
+1252	b'Taiwan'	2
+1253	b'Tajiks'	2
+1254	b'Tajikistan'	2
+1255	b'Taliban'	2
+1256	b'Tamils'	2
+1257	b'Tamil nadu'	4
+1258	b'Tanzania'	3
+1259	b'Tasmania'	2
+1260	b'Tel Aviv'	3
+1261	b'Tennessee'	4
+1262	b'Texas'	12
+1263	b'Thailand'	9
+1264	b'the Apprentice'	2
+1265	b'The Beatles'	4
+1266	b'The Church of Jesus Christ of Latter-day Saints'	4
+1267	b'The Dick Van Dyke Show'	2
+1268	b'The Guardians'	6
+1269	b'The Mask'	2
+1270	b'The Nation'	2
+1271	b'the Netherlands'	2
+1272	b'The New York Times'	6
+1273	b'The New Yorker'	2
+1274	b'The Observer'	2
+1275	b'The Rolling Stones'	3
+1276	b'The Spectator'	2
+1277	b'the Sun'	2
+1278	b'the times'	4
+1279	b'the Walt Disney Company'	2
+1280	b'The Washington Posts'	3
+1281	b'The X-Files'	2
+1282	b'Theodore Roosevelt'	2
+1283	b'Thirsk'	2
+1284	b'Thomas Beecham'	2
+1285	b'Thomas Jefferson'	2
+1286	b'Thoroughbreds'	2
+1287	b'Titular bishop'	2
+1288	b'Tokyo'	5
+1289	b'Tony award'	2
+1290	b'Torah'	2
+1291	b'Torontos'	4
+1292	b'Toronto Argonauts'	2
+1293	b'Torun'	2
+1294	b'Transvaal'	2
+1295	b'treasurer'	2
+1296	b'Trieste'	3
+1297	b'Trinity'	2
+1298	b'Trinity College , Cambridge'	2
+1299	b'Tunis'	2
+1300	b'Tunisia'	4
+1301	b'Turin'	7
+1302	b'turkeys'	8
+1303	b'Turkmenistan'	2
+1304	b'Turridae'	4
+1305	b'Tuscany'	3
+1306	b'Us'	2
+1307	b'U.S.'	2
+1308	b'U.S. Army'	5
+1309	b'U.S. House of Representatives'	2
+1310	b'U.S. Navy'	2
+1311	b'U.S. presidents'	2
+1312	b'U.S. Senate'	2
+1313	b'U2'	3
+1314	b'UC Berkeley'	2
+1315	b'UCLA'	4
+1316	b'UEFA'	3
+1317	b'Uefa Champions League'	4
+1318	b'UK'	9
+1319	b'UK government'	2
+1320	b'US army'	3
+1321	b'US$'	2
+1322	b'USA'	7
+1323	b'USA Networks'	2
+1324	b'USD'	2
+1325	b'USL Premier Development League'	2
+1326	b'Ubisoft'	2
+1327	b'Ukraine'	11
+1328	b'Ukrainians'	5
+1329	b'Ultimate Fighting Championship'	2
+1330	b'Umar'	2
+1331	b'unincorporated community'	2
+1332	b'unions'	5
+1333	b'Union army'	6
+1334	b'unionists'	2
+1335	b'United Arab Emirates'	2
+1336	b'United Artists'	2
+1337	b'United Kingdom'	17
+1338	b'United nations'	3
+1339	b'United States Congress'	4
+1340	b'United States'	89
+1341	b'United States Air Force'	3
+1342	b'United States Army'	7
+1343	b'United States Census Bureau'	5
+1344	b'United States Environmental Protection Agency'	2
+1345	b'United States House of Representatives'	2
+1346	b'United States Marine Corps'	4
+1347	b'United States navy'	4
+1348	b'United States Senate'	3
+1349	b'United States Senators'	2
+1350	b'University of Cambridge'	4
+1351	b'University of California , Los Angeles'	2
+1352	b'University of Chicago'	2
+1353	b'University of Florida'	2
+1354	b'University of Geneva'	2
+1355	b'University of Illinois'	3
+1356	b'University of Illinois at Urbana-Champaign'	2
+1357	b'University of London'	3
+1358	b'University of Maryland , College Park'	2
+1359	b'University of Minnesota'	5
+1360	b'University of New Mexico'	2
+1361	b'University of North Carolina'	2
+1362	b'University of Oxford'	4
+1363	b'University of Pennsylvania'	3
+1364	b'University of St Andrews'	2
+1365	b'University of Toronto'	5
+1366	b'University of Washington'	2
+1367	b'Urdu'	4
+1368	b'Uruguay'	2
+1369	b'Utah'	7
+1370	b'Utah State University'	2
+1371	b'Utrecht'	2
+1372	b'VFL'	2
+1373	b'Valencia'	2
+1374	b'Vancouver'	4
+1375	b'Vancouver Island'	2
+1376	b'Vandals'	2
+1377	b'Vanity Fair'	2
+1378	b'Venezuela'	3
+1379	b'Venice'	4
+1380	b'Vicar'	2
+1381	b'Victorias'	4
+1382	b'Victoria Land'	4
+1383	b'Vida Blue'	2
+1384	b'Vienna'	10
+1385	b'Vienna State Opera'	2
+1386	b'Vietnams'	9
+1387	b'Vietnam war'	7
+1388	b'Virginia'	9
+1389	b'Virginia Beach'	3
+1390	b'Virginia Tech'	2
+1391	b'Visigoths'	2
+1392	b'Vlachs'	2
+1393	b'Vodafone'	2
+1394	b'Volkswagen'	3
+1395	b'Vysocina Region'	5
+1396	b'Wales'	8
+1397	b'Wallachia'	2
+1398	b'Walt Disney World Resort'	2
+1399	b'Walthamstow'	2
+1400	b'Warmian-Masurian Voivodeship'	3
+1401	b'Warsaw'	4
+1402	b'Warwickshire'	2
+1403	b'Washington'	6
+1404	b'Washington , D.C .'	4
+1405	b'Washington , D.C.'	8
+1406	b'Washington Post'	2
+1407	b'Washington Redskins'	6
+1408	b'Washington Senators'	3
+1409	b'Waterfords'	4
+1410	b'Wehrmacht'	2
+1411	b'Weimar Republic'	2
+1412	b'Wellingtons'	2
+1413	b'Welsh'	5
+1414	b'west'	2
+1415	b'West Bank'	3
+1416	b'West Bengal'	4
+1417	b'west coast'	2
+1418	b'west end'	4
+1419	b'West Germany'	2
+1420	b'West Ham United'	2
+1421	b'West Indies'	4
+1422	b'West Point'	2
+1423	b'West Pomeranian Voivodeship'	6
+1424	b'West Sussex'	2
+1425	b'West Virginia'	3
+1426	b'West Yorkshire'	3
+1427	b'Western Australia'	3
+1428	b'Western Europe'	3
+1429	b'Westminster'	2
+1430	b'Whigs'	3
+1431	b'whites'	3
+1432	b'Wieruszow County'	2
+1433	b'Wii'	2
+1434	b'Wilderness Act'	2
+1435	b'Will Smith'	2
+1436	b'William Shakespeare'	2
+1437	b'Windsor'	2
+1438	b'Winnipeg'	3
+1439	b'Winnipeg Blue Bombers'	2
+1440	b'Winston Churchill'	5
+1441	b'Wisconsin'	6
+1442	b'Woodrow Wilson'	2
+1443	b'Woody Allen'	2
+1444	b'Worcester'	2
+1445	b'Worcestershire'	3
+1446	b'World Cups'	2
+1447	b'World Wars I'	7
+1448	b'world war II'	39
+1449	b'Wrigley Field'	2
+1450	b'Wuhan'	2
+1451	b'Wyoming'	2
+1452	b'Xbox'	2
+1453	b'Xerxes'	2
+1454	b'Yale University'	2
+1455	b'Yemen'	2
+1456	b'Yes'	2
+1457	b'York'	5
+1458	b'Yorkshire'	5
+1459	b'Yucatan peninsula'	2
+1460	b'Yugoslavia'	3
+1461	b'Yunnan'	3
+1462	b'Zambia'	4
+1463	b'Zimbabwe'	2
+1464	b'Zurich'	2
+1465	b"` Abdu ' l-Baha"	2
+1466	b'album of the same name'	2
+1467	b'bird'	2
+1468	b'blog'	2
+1469	b'by-election'	2
+1470	b'character actor'	2
+1471	b'communes'	6
+1472	b'concussion'	2
+1473	b'cone snails'	7
+1474	b'debut album'	2
+1475	b'economists'	2
+1476	b'fungus'	2
+1477	b'gastroenteritis'	2
+1478	b'heart attacks'	3
+1479	b'main-belt'	8
+1480	b'mining'	3
+1481	b'peptide'	2
+1482	b'phosphate'	2
+1483	b'sloops'	2
+
+Total entities 1484
+Total sents 5535

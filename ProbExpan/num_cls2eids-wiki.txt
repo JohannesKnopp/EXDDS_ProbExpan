@@ -1,0 +1,24 @@
+[query-chinaprovinces]	22
+[neg query-chinaprovinces]	33
+
+[query-companies]	0
+[neg query-companies]	0
+
+[query-countries]	46
+[neg query-countries]	50
+
+[query-diseases]	32
+[neg query-diseases]	23
+
+[query-parties]	0
+[neg query-parties]	0
+
+[query-sportsleagues]	55
+[neg query-sportsleagues]	50
+
+[query-tvchannels]	32
+[neg query-tvchannels]	29
+
+[query-usstates]	25
+[neg query-usstates]	31
+
